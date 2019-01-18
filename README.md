@@ -1,0 +1,2 @@
+# BridgeBiddingTree
+BridgeBiddingTree without interference
